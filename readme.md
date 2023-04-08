@@ -18,7 +18,7 @@
 <a name="about"></a>
 ## Description
 
-[Card website template](#download-business-card-website-template), which you can change and place on any hosting, including [GitHub Pages](https://docs.github.com/en/pages), then your business card site will be available at a URL like `username.github.io`, where `username` is your username.
+[Digital business card template](#download-business-card-website-template), which you can modify and place on any hosting, including [GitHub Pages](https://docs.github.com/ru/pages), then the site of your electronic business card will be available at the address of the form `username.github.io`, where `username` is your username.
 
 Files in [business card site folder](https://github.com/GrigoryKovalev/online-business-card) for basic use:
 
@@ -33,7 +33,7 @@ Files in [business card site folder](https://github.com/GrigoryKovalev/online-bu
 <a name="download-business-card-website-template"></a>
 ### Download the business card site template
 
-You can download business card website files from [link](https://github.com/GrigoryKovalev/online-business-card/archive/refs/heads/master.zip) or go to [business card website folder](https://github.com/GrigoryKovalev/online-business-card) and download the ZIP archive by clicking the `Code` button on the right above the list of files, and then `Download ZIP`.
+You can download business card site files from [link](https://github.com/GrigoryKovalev/online-business-card/archive/refs/heads/master.zip) or go to [business card site folder](https://github.com/GrigoryKovalev/online-business-card) and download the ZIP archive by clicking the `Code` button on the right above the list of files, and then - `Download ZIP`.
 
 <a name="add-contact-details"></a>
 ### Add your contact details
@@ -72,7 +72,7 @@ Only the following fields from the `vcard.vcf` file are displayed on the vCard s
 <a name="add-your-avatar"></a>
 ### Add an avatar
 
-Replace the file `avatar.jpg` in the [business card site folder](https://github.com/GrigoryKovalev/online-business-card) with an image of your avatar with the same name, width and height of at least `330px`, if the height is greater than the width, then the avatar can be scrolled down.
+Replace the file `avatar.jpg` in the [business card site folder](https://github.com/GrigoryKovalev/online-business-card) with an image of your avatar with the same name, width and height of at least `330px`, if the height is greater than the width, then only by clicking the avatar will be displayed in full.
 
 > You can trim and convert an image to `JPG`, for example, using the online service [iLoveImg](https://www.iloveimg.com/), and give the artistic style of your photo - using the application [Prisma](https://prisma-ai.com).
 
